@@ -5,6 +5,7 @@ We will be comparing different classification models and predicting the type of 
 A cardiac arrhythmia is a kind of problem where the person's heart beats too fast or too slow i.e irregular heart rate. Usually it is classified into 16 types namely:
 
 Classtype | Class
+
 ..................|........................................................................................................
 
 1    |    Normal                                       
